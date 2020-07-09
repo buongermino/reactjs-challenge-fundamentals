@@ -1,6 +1,6 @@
 # Desafio fundamentos com ReactJS: Go Finances Web
 
-Este repositórios é o front-end da aplicação de transações, construído com ReactJS. A aplicação exibe a lista das transações cadastradas no banco de dados da API, 
+Este repositórios é o front-end da [aplicação de transações](https://github.com/buongermino/nodejs-challenge-database-upload), construído com ReactJS. A aplicação exibe a lista das transações cadastradas no banco de dados da API, 
 bem como valores de entrada, saída e total. É possível fazer upload de arquivos .csv
 
 Para que as transações sejam exibidas, é necessário tê-las cadastradas previamente no banco de dados.
